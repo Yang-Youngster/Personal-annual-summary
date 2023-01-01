@@ -52,7 +52,7 @@ over~
 如下：
 ```
 
-![picture](2022-Personal-Summary.assets/image-20230101230314427-16725865840531.png)
+![picture](https://github.com/Yang-Youngster/Personal-annual-summary/blob/main/image-20230101230314427.png)
 
 # 2023-Personal-Flag 
 
